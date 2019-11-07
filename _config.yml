@@ -1,1 +1,16 @@
-theme: jekyll-theme-midnight
+name: Klayton Cavalcante
+description: Blogging about the art of programming
+meta_description: "Klayton's home page for blogging and projects"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://klaytoncavalcante.github.io'
+#google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://klaytoncavalcante.github.io'
+author:         'Klayton Cavalcante'
