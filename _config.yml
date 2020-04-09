@@ -3,7 +3,7 @@ description: Escrevendo sobre a arte de programar
 meta_description: "Uma home page para projetos e blogging por Klayton"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: '/'
