@@ -9,6 +9,7 @@ paginate: 15
 baseurl: /
 domain_name: 'https://klaytoncavalcante.github.io'
 excerpt_separator: <!--more-->
+permalink: /posts/:slug:output_ext
 #google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 

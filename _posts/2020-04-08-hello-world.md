@@ -9,8 +9,10 @@ Olá, pessoal.
 
 Essa é uma das minhas primeiras tentativas em muito tempo de escrever algo e contribuir um pouco mais com a comunidade, ao mesmo tempo que aprendo mais.
 
-Para me apresentar um pouco, meu nome é Klayton Cavalcante. Sou programador há um bom tempo já, mas não sabeia dizer desde quando. Por volta de 2003 ou 2004, não lembro bem, meu irmão mais velho me mostrou que dava pra colocar coisas online no Kit.Net, que é um falecido serviço de hospedagens que a Globo.com tinha. Nada muito complexo. Mas tinha ao menos um FTP que permitia que eu colocasse um ou outro arquivo HTML lá dentro. Foi aí que eu comecei a me interessar em colocar alguma coisa online.
+Para me apresentar um pouco, meu nome é Klayton Cavalcante. Sou programador há um bom tempo já, mas não saberia dizer desde quando. Por volta de 2003 ou 2004, não lembro bem, meu irmão mais velho me mostrou que dava pra colocar coisas online no Kit.Net, que é um falecido serviço de hospedagens que a Globo.com tinha. Nada muito complexo. Mas tinha ao menos um FTP que permitia que eu colocasse um ou outro arquivo HTML lá dentro. Foi aí que eu comecei a me interessar em colocar alguma coisa online.
+
 <!--more-->
+
 Na época não tínhamos computador em casa. O que restava era o limitado acesso que tínhamos a lan houses e foi assim meu primeiro contato com "olha, dá pra fazer algo com isso aqui." Mas boa parte do tempo eu não tive muito acesso a aprender a escrever código de nenhum tipo. (Relaxe, não vou dizer que HTML é programação. hahaha)
 
 Por volta de 2005, meu irmão comprou um livro que ensinava HTML do zero. Ele odiava que eu mexesse nas coisas dele, mas como um bom irmão mais novo, eu sempre desobedecia isso. De tanto pegar o livro dele escondido, ele desistiu e me autorizou a usar pra estudar. Aí eu aproveitei e corri pra casa de uma amiga da família que tinha computador em casa. (te amo Anna!)
