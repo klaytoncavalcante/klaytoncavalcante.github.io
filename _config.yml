@@ -1,12 +1,12 @@
 name: Klayton Cavalcante
-description: Blogging about the art of programming
-meta_description: "Klayton's home page for blogging and projects"
+description: Escrevendo sobre a arte de programar
+meta_description: "Uma home page para projetos e blogging por Klayton"
 
 markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: '/'
 domain_name: 'https://klaytoncavalcante.github.io'
 #google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
