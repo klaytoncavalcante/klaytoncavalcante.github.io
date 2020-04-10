@@ -848,6 +848,9 @@ body:not(.post-template) .post-title {
 /* ==========================================================================
    5. Single Post - When you click on an individual post
    ========================================================================== */
+header.post-header + section.post-content {
+    margin-top: 20px;
+}
 
 .post-template .post-header {
    margin-bottom: 3.4rem;
