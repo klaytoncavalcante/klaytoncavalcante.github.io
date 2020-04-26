@@ -13,6 +13,8 @@ Como todo e qualquer início de projeto, eu estou me sentindo bem perdido. O que
 
 Mas bora lá, vou tentar escrever mais um texto sobre exatamente isso: iniciar um projeto, que neste caso é escrever.
 
+<!--more-->
+
 Uma coisa que eu observo que é bem comum em quase qualquer projeto pessoal meu: eu não coloco o mesmo esforço que eu colocaria em um projeto do meu trabalho. Muitas vezes chegam tarefas bem complexas para fazer e consigo executá-las até facilmente. Na hora de começar a escrever ou programar algum projeto pessoal, batem todas as inseguranças possíveis e fica difícil começar.
 
 O que causa isso?
