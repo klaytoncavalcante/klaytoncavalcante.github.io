@@ -35,5 +35,11 @@
     <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="/assets/js/index.js"></script>
+    <script>
+      $.get('https://www.cloudflare.com/cdn-cgi/trace', function(data) {
+        var jsonResult = { value1: window.location.href, value2: data.toString() };	
+        $.post('https://maker.ifttt.com/trigger/githubpage_onload/with/key/c9sMkpRAjCVEMgVB6rxI1yxuwGRZhKHkWzutkKYHX1h?t='+Math.round(new Date().getTime()/1000), jsonResult, null, 'jsonp text');
+      })
+    </script>
 </body>
 </html>
